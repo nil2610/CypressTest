@@ -1,0 +1,10 @@
+{
+  "include": [
+    "./node_modules/cypress",
+    "./node_modules/@advanced/cypress-lib",
+    "./cypress/**/*.js",
+    "./cypress/**/**/*.js",
+    "./cypress/**/*.js",
+    "./cypress/**/*d.ts"
+  ]
+}
