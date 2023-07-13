@@ -1,20 +1,20 @@
 {
     "env": {
-        "URL": "https://example.com",
+        "URL": "https://example.com",        
         "isUpdateStatusInJIRA": true,
-        "jiraUserName": "nilesh.patel@oneadvanced.com",
-        "jiraAPI": "1xTndnJE8SbWYJ9jY5nM4DD2",
-        "zephyrAccessKey": "amlyYToxNTAzMTExMyA2MWQyN2UzMDkwY2ZkMjAwNzFmMDI5ZTkgVVNFUl9ERUZBVUxUX05BTUU",
-        "zephyrSecretKey": "DolXNF_de44ZDl8ROmWl_NGBxIYoRZiBmhiWWtCu9Lk",
-        "projectKey": "HRPRO",
+        "jiraUserName": "",
+        "jiraAPI": "",
+        "zephyrAccessKey": "",
+        "zephyrSecretKey": "",
+        "projectKey": "",
         "versionName": "",
         "cycleName": "",
-        "tokenURL": "https://dev.identity.oneadvanced.io/auth/realms/advancedhrautomation/protocol/openid-connect/token",
-        "clientId": "test-api-client",
-        "clientSecret": "GtpvWLZ9DDAI5NJES4YM3q4ur58o9Hfb",
-        "apiURL": "https://api.qa.cloudhrmt.oneadvanced.io/api/v1/workplaces/advancedhrautomation-advancedhrautomation-4zy293148n",
-        "workplaceRef": "advancedhrautomation-advancedhrautomation-4zy293148n",
-        "tenantName": "advancedhrautomation"        
+        "tokenURL": "",
+        "clientId": "",
+        "clientSecret": "",
+        "apiURL": "",
+        "workplaceRef": "",
+        "tenantName": ""        
     },
     "specPattern": [
         "cypress/e2e/**/**.cy.js"     

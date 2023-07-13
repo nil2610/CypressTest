@@ -2,19 +2,19 @@
     "env": {
         "URL": "https://www.google.co.in/webhp",
         "isUpdateStatusInJIRA": true,
-        "jiraUserName": "nilesh.patel@oneadvanced.com",
-        "jiraAPI": "1xTndnJE8SbWYJ9jY5nM4DD2",
-        "zephyrAccessKey": "amlyYToxNTAzMTExMyA2MWQyN2UzMDkwY2ZkMjAwNzFmMDI5ZTkgVVNFUl9ERUZBVUxUX05BTUU",
-        "zephyrSecretKey": "DolXNF_de44ZDl8ROmWl_NGBxIYoRZiBmhiWWtCu9Lk",
-        "projectKey": "HRPRO",
+        "jiraUserName": "",
+        "jiraAPI": "",
+        "zephyrAccessKey": "",
+        "zephyrSecretKey": "",
+        "projectKey": "",
         "versionName": "",
         "cycleName": "",
-        "tokenURL": "https://dev.identity.oneadvanced.io/auth/realms/ahruatautomation/protocol/openid-connect/token",
-        "clientId": "test-api-client",
-        "clientSecret": "y5Otuqi0ozRLrWAK6RIN7aVmltPSX8ki",
-        "apiURL": "https://api.uat.cloudhrmt.oneadvanced.io/api/v1/workplaces/cloudhruat-ahr-uat-automation-ep4nycrt0c",
-        "workplaceRef": "cloudhruat-ahr-uat-automation-ep4nycrt0c",
-        "tenantName": "ahruatautomation"        
+        "tokenURL": "",
+        "clientId": "",
+        "clientSecret": "",
+        "apiURL": "",
+        "workplaceRef": "",
+        "tenantName": ""        
     },
     "specPattern": [
         "cypress/e2e/**/**.cy.js"     
